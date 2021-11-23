@@ -1,0 +1,21 @@
+{
+    "name": "coly/bt",
+    "description": "API",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Coly\\Bt\\": "src/Coly/Bt"
+        }
+    },
+    "authors": [
+        {
+            "name": "coly",
+            "email": "admin@2smile.cn"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.2"
+    }
+}
